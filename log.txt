@@ -1,4 +1,5 @@
-fac7e12 (HEAD -> main) Task 2.3 finished
+0bddf55 (HEAD -> main) Task 2.4
+fac7e12 Task 2.3 finished
 bfd1c20 Task 2.3 Done
 3d998a1 Task 2.2 finished
 6b6ad30 Task 2.2 Done
@@ -12,4 +13,3 @@ b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
 c8d9d38 adding starter files
 cbe4517 first commit
-(END)
